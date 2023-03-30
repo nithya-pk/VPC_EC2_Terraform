@@ -1,4 +1,12 @@
-# VPC_EC2_Terraform
-VPC with Public &amp; Private Subnet, Route Tables, NAT Gateway, Security Groups and EC2 Instance
+## VPC_EC2_Terraform
 
-![image](https://user-images.githubusercontent.com/105173126/228263006-7b8b3bd5-2fee-40f5-bd14-9fa55390a4e4.png)
+- VPC in two availabilty zones 
+- Public & Private Subnet in each AZ
+- Route Tables, NAT Gateway
+- Security Groups for EC2 and RDS
+- RDS DB in private subnets
+- EC2 instance
+- Wordpress installed wtih presence in both EC2 and RDS
+
+![image](https://user-images.githubusercontent.com/105173126/228752020-0b6ca18a-75f0-4177-a747-de60bde68b75.png)
+
